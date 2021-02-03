@@ -1,0 +1,8 @@
+{
+  "name": "com.zansimple.net",
+  "version": "1.0.0",
+  "displayName": "Network Package",
+  "description": "网络通信包",
+  "author": "zansimple",
+  "license": "MIT"
+}
